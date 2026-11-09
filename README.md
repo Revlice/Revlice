@@ -2,7 +2,6 @@
 ### Full Stack Web Developer
 
 🔭 I’m currently working on Next.JS and Typescript
-🌱 I’m currently learning SQL
 ⚡ Fun fact I'm a paramedic
 
 ## Contact Me
