@@ -1,33 +1,44 @@
-# Hello 👋, I'm Rahmican Tut
-### Full Stack Web Developer
+<div align="center">
 
-🔭 I’m currently working on Next.JS and Typescript
-⚡ Fun fact I'm a paramedic
+# Hi, I'm Rahmican Tut 👋
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/rahmican-tut-37a165265/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://rahmicantut.com/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
+### Full Stack Web Developer · Paramedic
 
-## Skills
+Building for the web with **Next.js**, **React**, and **TypeScript**.
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/>&nbsp;
-</p>
+[![Website](https://img.shields.io/badge/Website-rahmicantut.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rahmicantut.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmican-tut-37a165265/)
+[![GitHub](https://img.shields.io/badge/GitHub-Revlice-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Revlice)
 
-## GitHub Stats
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Revlice&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revlice&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+## About me
 
-## Support Me
+I'm a full stack web developer and a paramedic. My work brings together two interests: technology and helping people.
 
-<a href="https://www.buymeacoffee.com/revlice"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+- 🔭 Currently working with **Next.js** and **TypeScript**.
+- 🧩 My stack spans React interfaces, Node.js APIs, and MongoDB.
+- 🚑 Beyond the code, I'm a **paramedic**.
+
+## Tech stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | TypeScript · JavaScript · React · Next.js |
+| **UI & styling** | HTML5 · CSS3 · Tailwind CSS |
+| **Backend** | Node.js · Express |
+| **Database** | MongoDB |
+
+## Let's connect
+
+Visit my [website](https://rahmicantut.com/) or find me on [LinkedIn](https://www.linkedin.com/in/rahmican-tut-37a165265/).
+
+If you'd like to support my work, you can [buy me a coffee ☕](https://www.buymeacoffee.com/revlice).
+
+---
+
+<div align="center">
+  <sub>Rahmican Tut · <a href="https://github.com/Revlice">@Revlice</a></sub>
+</div>
