@@ -1,44 +1,41 @@
-<div align="center">
+<p align="center">
+  <img src="assets/rahmican-banner.svg" alt="Rahmican Tut / Revlice — a graphite banner with electric-blue circuit lines and an amber automotive-inspired dial." width="100%" />
+</p>
 
-# Hi, I'm Rahmican Tut 👋
+# Rahmican Tut
 
-### Full Stack Web Developer · Paramedic
+**Web development · Game development · Game server systems**
 
-Building for the web with **Next.js**, **React**, and **TypeScript**.
+I build for the web and explore game development and the systems behind game servers. I enjoy turning ideas into interfaces and tools people can use.
 
-[![Website](https://img.shields.io/badge/Website-rahmicantut.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rahmicantut.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmican-tut-37a165265/)
-[![GitHub](https://img.shields.io/badge/GitHub-Revlice-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Revlice)
+[Website](https://rahmicantut.com/) · [LinkedIn](https://www.linkedin.com/in/rahmican-tut-37a165265/) · [GitHub](https://github.com/Revlice)
 
-</div>
+## What drives me
+
+The web is where I started building. Games and server systems are where I want to take that curiosity next. Cyberpunk worlds and automotive design influence my taste: purposeful details, clear interfaces, and a little edge.
+
+Beyond development, I'm a paramedic.
+
+## Tools I work with
+
+**Web foundations**  
+HTML · CSS · JavaScript · TypeScript
+
+**Interfaces & applications**  
+React · Next.js · Tailwind CSS
+
+**Games & server scripting**  
+Lua · C# · Unity
+
+**AI development tools**  
+Codex · Claude
+
+## Let's build something
+
+I'm open to job opportunities, freelance projects, and connecting with developers working on the web, games, or server systems.
+
+[Explore my website](https://rahmicantut.com/) or [get in touch on LinkedIn](https://www.linkedin.com/in/rahmican-tut-37a165265/).
 
 ---
 
-## About me
-
-I'm a full stack web developer and a paramedic. My work brings together two interests: technology and helping people.
-
-- 🔭 Currently working with **Next.js** and **TypeScript**.
-- 🧩 My stack spans React interfaces, Node.js APIs, and MongoDB.
-- 🚑 Beyond the code, I'm a **paramedic**.
-
-## Tech stack
-
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | TypeScript · JavaScript · React · Next.js |
-| **UI & styling** | HTML5 · CSS3 · Tailwind CSS |
-| **Backend** | Node.js · Express |
-| **Database** | MongoDB |
-
-## Let's connect
-
-Visit my [website](https://rahmicantut.com/) or find me on [LinkedIn](https://www.linkedin.com/in/rahmican-tut-37a165265/).
-
-If you'd like to support my work, you can [buy me a coffee ☕](https://www.buymeacoffee.com/revlice).
-
----
-
-<div align="center">
-  <sub>Rahmican Tut · <a href="https://github.com/Revlice">@Revlice</a></sub>
-</div>
+[Buy me a coffee](https://www.buymeacoffee.com/revlice) · Thanks for supporting what I build.
