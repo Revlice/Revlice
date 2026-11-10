@@ -1,41 +1,55 @@
 <p align="center">
-  <img src="assets/rahmican-banner.svg" alt="Rahmican Tut / Revlice — a graphite banner with electric-blue circuit lines and an amber automotive-inspired dial." width="100%" />
+  <img src="assets/rahmican-banner.svg" alt="Rahmican Tut / Revlice — Web developer. Exploring games and server systems." width="100%" />
 </p>
 
-# Rahmican Tut
+[Website](https://rahmicantut.com/) · [GitHub](https://github.com/Revlice) · [LinkedIn](https://www.linkedin.com/in/rahmican-tut-37a165265/)
 
-**Web development · Game development · Game server systems**
+## <img src="assets/01-operator.svg" alt="01 / Operator" width="100%" />
 
-I build for the web and explore game development and the systems behind game servers. I enjoy turning ideas into interfaces and tools people can use.
+I'm **Rahmican Tut**, also known as **Revlice**. My background is in web development: turning ideas into interfaces and tools people can use.
 
-[Website](https://rahmicantut.com/) · [LinkedIn](https://www.linkedin.com/in/rahmican-tut-37a165265/) · [GitHub](https://github.com/Revlice)
+I'm exploring game development and the systems behind game servers. I'm working on **Cyberpunk roleplay systems for Open2077**. Automotive design and Cyberpunk worlds influence my taste for purposeful details and expressive interfaces.
 
-## What drives me
+Beyond development, I'm a **paramedic**.
 
-The web is where I started building. Games and server systems are where I want to take that curiosity next. Cyberpunk worlds and automotive design influence my taste: purposeful details, clear interfaces, and a little edge.
+## <img src="assets/02-loadout.svg" alt="02 / Tech arsenal" width="100%" />
 
-Beyond development, I'm a paramedic.
+**Tools I've worked with**
 
-## Tools I work with
+- **Web foundations** — HTML · CSS · JavaScript · TypeScript
+- **Interfaces** — React · Next.js · Tailwind CSS
+- **Backend &amp; data** — Node.js · Express · MongoDB · Supabase
+- **Development assistants** — Codex · Claude
 
-**Web foundations**  
-HTML · CSS · JavaScript · TypeScript
+**Exploring &amp; building on**
 
-**Interfaces & applications**  
-React · Next.js · Tailwind CSS
+Game development, game server systems and roleplay mechanics. My game-related toolkit includes Lua, C# and Unity.
 
-**Games & server scripting**  
-Lua · C# · Unity
+## <img src="assets/03-archive.svg" alt="03 / Project archive" width="100%" />
 
-**AI development tools**  
-Codex · Claude
+<a href="https://github.com/Revlice/rahmicantut.com-v2"><img src="assets/project-portfolio.svg" alt="File 001 — Personal portfolio" width="100%" /></a>
 
-## Let's build something
+### [Personal portfolio](https://github.com/Revlice/rahmicantut.com-v2)
 
-I'm open to job opportunities, freelance projects, and connecting with developers working on the web, games, or server systems.
+My personal website project: a place to introduce myself and my work.
 
-[Explore my website](https://rahmicantut.com/) or [get in touch on LinkedIn](https://www.linkedin.com/in/rahmican-tut-37a165265/).
+**Stack:** React · Vite · Tailwind CSS · Framer Motion  
+[Browse source](https://github.com/Revlice/rahmicantut.com-v2) · [Visit my current website](https://rahmicantut.com/)
 
----
+<a href="https://acilrehber.com.tr/"><img src="assets/project-acil-rehber.svg" alt="File 002 — Acil Rehber" width="100%" /></a>
 
-[Buy me a coffee](https://www.buymeacoffee.com/revlice) · Thanks for supporting what I build.
+### [Acil Rehber](https://acilrehber.com.tr/)
+
+A Turkish-language web platform for browsing first aid and emergency information through searchable, categorized guides.
+
+[Visit Acil Rehber](https://acilrehber.com.tr/)
+
+## <img src="assets/04-connect.svg" alt="04 / Establish connection" width="100%" />
+
+I'm open to job opportunities, freelance projects and conversations about the web, games or server systems.
+
+**[Explore my website ↗](https://rahmicantut.com/)**  
+**[Connect on LinkedIn ↗](https://www.linkedin.com/in/rahmican-tut-37a165265/)**  
+[Find me on GitHub](https://github.com/Revlice) · [Buy me a coffee](https://www.buymeacoffee.com/revlice)
+
+<img src="assets/footer.svg" alt="End of dossier — Rahmican Tut / Revlice" width="100%" />

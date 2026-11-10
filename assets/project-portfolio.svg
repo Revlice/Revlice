@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-labelledby="title"><title id="title">Personal portfolio</title><defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#213343" stroke-width="1" opacity=".35"/></pattern><pattern id="scan" width="4" height="6" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#080D17" opacity=".3"/></pattern></defs><rect width="960" height="180" fill="#080D17"/>
+ <path d="M1 1H933l26 26v152H1Z" fill="#101D2A" stroke="#315463"/>
+ <path d="M1 1h8v178H1Z" fill="#57E9EF"/>
+ <text x="32" y="38" font-family="Consolas, monospace" font-size="15" fill="#57E9EF" letter-spacing="2">FILE / 001</text>
+ <text x="30" y="97" font-family="Arial, Helvetica, sans-serif" font-size="44" fill="#EAF4F7" font-weight="800" letter-spacing="-1">Personal portfolio</text>
+ <text x="33" y="143" font-family="Consolas, monospace" font-size="17" fill="#F4F000" letter-spacing="2">WEB / INTERFACE</text>
+ <path d="M674 25v129" stroke="#345969"/>
+ <rect x="710" y="39" width="173" height="104" fill="#080D17" stroke="#57E9EF"/><path d="M710 60h173" stroke="#57E9EF"/><text x="726" y="57" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#F4F000" >• • •</text><path d="m748 84-16 16 16 16m94-32 16 16-16 16m-34-39-22 48" fill="none" stroke="#F4F000" stroke-width="4"/>
+ <path d="M924 143h16v16h-16" fill="none" stroke="#F4F000" stroke-width="3"/>
+</svg>

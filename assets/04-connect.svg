@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="86" viewBox="0 0 960 86" role="img" aria-labelledby="title"><title id="title">ESTABLISH CONNECTION</title><defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#213343" stroke-width="1" opacity=".35"/></pattern><pattern id="scan" width="4" height="6" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#080D17" opacity=".3"/></pattern></defs><rect width="960" height="86" fill="#080D17"/>
+ <path d="M0 0H960V65l-21 21H0Z" fill="#101D2A"/>
+ <path d="M0 0h87v62L63 86H0Z" fill="#F4F000"/>
+ <text x="18" y="56" font-family="Arial, Helvetica, sans-serif" font-size="36" fill="#080D17" font-weight="900">04</text>
+ <text x="113" y="54" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#EAF4F7" font-weight="800" letter-spacing="1">ESTABLISH CONNECTION</text>
+ <path d="M690 44h50l15-15h176" fill="none" stroke="#345969"/>
+ <text x="760" y="58" font-family="Consolas, monospace" font-size="13" fill="#57E9EF" letter-spacing="2">CONTACT</text>
+ <path d="M113 74h220" stroke="#57E9EF" stroke-width="2"/>
+</svg>
